@@ -7,6 +7,8 @@ An online flight booking website built using Java Servlet, JSP, and Hibernate al
 ### Demo Screeshots
 
 ![FlyAway Desktop Demo](desktop.png "Desktop Demo")
+![FlyAway Desktop Demo](desktop2.png "Desktop Demo")
+
 
 
 
